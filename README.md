@@ -2,6 +2,8 @@
 
 A simple command-line task manager to keep track of your tasks.
 
+Guide: https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 *   Add, delete, and update tasks.
